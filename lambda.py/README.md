@@ -1,0 +1,1 @@
+lambda is a concise way to create anonymous functions in python.
